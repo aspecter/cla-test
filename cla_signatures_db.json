@@ -1,3 +1,13 @@
 {
-  "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "aspecter",
+      "email": "hello@hello.eu",
+      "id": 25620923,
+      "comment_id": 2654003835,
+      "created_at": "2025-02-12T15:10:09Z",
+      "repoId": 931449765,
+      "pullRequestNo": 3
+    }
+  ]
 }
