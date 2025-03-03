@@ -1,3 +1,14 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "aspecter",
+      "email": "asdasd@asdasd.hu",
+      "accountType": "personal",
+      "id": 25620923,
+      "comment_id": 2694432217,
+      "created_at": "2025-03-03T13:40:50Z",
+      "repoId": 931449765,
+      "pullRequestNo": 15
+    }
+  ]
 }
